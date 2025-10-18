@@ -194,7 +194,7 @@ REFLEXUS Protocol uses BNB (Binance Coin) as its backing asset but is **NOT** af
 
 ## 🔗 Links
 
-- **Website**: [Reflexus Protocol](https://reflexusprotocol.com)
+- **Website**: [Reflexus Protocol](https://reflexus.net)
 - **WhitePaper**: [Reflexus Protocol](https://reflexus.net/whitepaper)
 - **BSCScan**: [BSCScan](https://bscscan.com/token/0x649e91d212CcA1e21D4f991a2580f175b95924EB)
 
