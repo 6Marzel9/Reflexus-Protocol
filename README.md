@@ -174,16 +174,6 @@ uint256 private constant PRECISION_DIVISOR = 10000;
 ### Contract Address
 **0x649e91d212CcA1e21D4f991a2580f175b95924EB**
 
-## 🤝 Contributing
-
-We welcome contributions to the Reflexus Protocol! Please read our contributing guidelines and submit pull requests for any improvements.
-
-### Development
-- Fork the repository
-- Create a feature branch
-- Make your changes
-- Submit a pull request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
