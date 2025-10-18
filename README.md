@@ -167,7 +167,7 @@ uint256 private constant PRECISION_DIVISOR = 10000;
 
 ### Quick Start
 1. **Connect Wallet**: Connect your BSC-compatible wallet
-2. **Buy UTR**: Send BNB directly to contract address `0x649e91d212CcA1e21D4f991a2580f175b95924EB` or use `buy()` function
+2. **Buy UTR**: Send BNB directly to contract address `0x649e91d212CcA1e21D4f991a2580f175b95924EB` or use `buy()` function to receive UTR
 3. **Claim Dividends**: Call `claimDividends()` to claim accumulated rewards
 4. **Refund**: Transfer UTR tokens to contract address `0x649e91d212CcA1e21D4f991a2580f175b95924EB` to receive BNB back
 
